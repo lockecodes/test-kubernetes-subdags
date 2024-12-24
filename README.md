@@ -1,0 +1,1 @@
+This repo has some test dags to test the viability of using the kubernetes executor when we were evaluating how to instrument our airflow. At the time there was a subdag related bug with the kubernetes executor.
